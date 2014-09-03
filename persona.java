@@ -1,6 +1,7 @@
 class persona{
 String nombre;
 String Apellidos;
+
 	public Persona(String nombre){
 		this.nombre=nombre;
 	}
